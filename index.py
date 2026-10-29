@@ -1,1 +1,1 @@
-print("this is the first file for the index")
+print("this is the first file")
