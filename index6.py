@@ -1,0 +1,1 @@
+print("The index6 is completed and ready for use")
